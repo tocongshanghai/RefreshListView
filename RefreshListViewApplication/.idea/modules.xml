@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RefreshListViewApplication.iml" filepath="$PROJECT_DIR$/RefreshListViewApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlistmodule/refreshlistmodule.iml" filepath="$PROJECT_DIR$/refreshlistmodule/refreshlistmodule.iml" />
     </modules>
   </component>
 </project>
